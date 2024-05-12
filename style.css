@@ -22,3 +22,9 @@ footer {
     text-align: center;
     font-style: italic;
 }
+
+@media(max-width:400px) {
+    section {
+        width: 300px;
+    }
+}
